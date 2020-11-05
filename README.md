@@ -3,7 +3,7 @@
 
 ### Contact me 💭
 
-- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width="16" height="16" align="center" /> Discord: `hhh h#0001`</a>
+- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width="16" height="16" align="center" /> Discord: `hh h#0001`</a>
 
 ### Stats 📊
 
