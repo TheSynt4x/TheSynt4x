@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm TheSynt4x! 👋</h2>
-<h4 align="center">I'm a 20 year old developer based in Stockholm, Sweden.</h4>
+<h4 align="center">I'm a 21 year old developer based in Stockholm, Sweden.</h4>
 
 ### Contact me 💭
 
