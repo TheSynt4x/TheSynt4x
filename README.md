@@ -1,9 +1,9 @@
 <h3 align="center">Hi there, I'm TheSynt4x! 👋</h2>
-<h4 align="center">I'm a 23 year old developer based in Stockholm, Sweden.</h4>
+<h4 align="center">I'm a 26 year old developer based in Stockholm, Sweden.</h4>
 
 ### Contact me 💭
 
-- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width="16" height="16" align="center" /> Discord: `hh h#3317`</a>
+- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width="16" height="16" align="center" /> Discord: `thesynt4x`</a>
 
 ### Stats 📊
 
